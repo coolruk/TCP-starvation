@@ -11,3 +11,8 @@ Several advantages of TCp starvation
 1.	Generating attack doesn’t need a huge network traffic volume.
 2.	Doesn’t consume the other resources of victim. Target machine’s CPU, RAM, Network traffic and so on. 
 3.	Only can target the certain service which is using TCP.
+
+
+-Prerequisite 
+Npcap 0.992
+Wireshark
