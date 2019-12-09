@@ -13,11 +13,11 @@ Several advantages of TCp starvation
 3.	Only can target the certain service which is using TCP.
 
 
--Prerequisite 
-Npcap 0.992
-Wireshark
+-Prerequisite: 
+1. Npcap 0.992 
+2. Wireshark
 
 -Limitation
-Destination : always 192.168.0.12
-Service: Http(192.168.0.12 IP have a proper web-serive)
+1. Destination : always 192.168.0.12
+2. Service: Http(192.168.0.12 IP have a proper web-serive)
 
