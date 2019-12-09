@@ -17,7 +17,6 @@ Several advantages of TCp starvation
 1. Npcap 0.992 
 2. Wireshark
 
--Limitation
+-Limitation (192.168.0.12 IP have a proper web-serive)
 1. Destination : always 192.168.0.12
-2. Service: Http(192.168.0.12 IP have a proper web-serive)
-
+2. Service: Http
